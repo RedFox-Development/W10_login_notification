@@ -1,6 +1,6 @@
 # W10_login_notification
-<img src="https://api.iconify.design/mdi:powershell.svg?color=blue&height=24"/>
 PowerShell script that on login (not on unlock) launches notification
+<img src="https://api.iconify.design/mdi:powershell.svg?color=blue&height=24"/>
 
 
 I created this ps1 - PowerShell - script for work use, but decided to push it here at GitHub so anyone can have it.
